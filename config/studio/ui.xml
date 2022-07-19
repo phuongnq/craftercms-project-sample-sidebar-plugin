@@ -332,7 +332,7 @@
                      <variant>icon</variant>
                   </configuration>
                </widget>
-               <widget id="craftercms.components.WidgetDialogIconButton">
+               <!--widget id="craftercms.components.WidgetDialogIconButton">
                   <configuration>
                      <title id="words.search" defaultMessage="Search"/>
                      <icon id="@mui/icons-material/SearchRounded"/>
@@ -342,7 +342,7 @@
                         </configuration>
                      </widget>
                   </configuration>
-               </widget>
+               </widget-->
                <widget id="org.craftercms.sampleToolbarPlugin.components.reactComponent">
                   <plugin id="org.craftercms.plugin.exampletoolbar"
                           type="toolbar"
